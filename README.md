@@ -1,2 +1,1 @@
-**Higher Level Programming**
-This is the second part of the ALX Software Engineering program that ,...
+Not empty.
